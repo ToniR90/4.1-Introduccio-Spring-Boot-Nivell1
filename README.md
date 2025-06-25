@@ -80,8 +80,8 @@ Compile the project
 bash
 ```mvn compile```
 
-bash
-```Clean the project```
+
+Clean the project
 
 bash
 ```mvn clean```
@@ -97,7 +97,7 @@ bash
 
 To import the project:
 
-Copy the repository: 
+Copy the repository: https://github.com/ToniR90/4.1-Introduccio-Spring-Boot-Nivell1.git
 
 Open Eclipse.
 
