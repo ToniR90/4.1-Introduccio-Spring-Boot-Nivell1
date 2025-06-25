@@ -77,21 +77,26 @@ Open a terminal in the project root and use the following Maven commands:
 
 Compile the project
 
-bash
-```mvn compile```
+```bash
+
+mvn compile
+```
 
 
 Clean the project
 
-bash
-```mvn clean```
+```bash
+
+mvn clean
+```
 
 ---
 
 ## Run the application
 
-bash
-```mvn spring-boot:run```
+```bash
+mvn spring-boot:run
+```
 
 ---
 
