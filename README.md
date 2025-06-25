@@ -54,7 +54,7 @@ http://localhost:9000/HelloWorld?nom=Toni
 
 Returns:
 
-`Hola, Toni. Estàs executant un projecte Maven`
+`Hi Toni! Maven project is running!!`
 
 
 ### 2. GET /HelloWorld2/{nom}
