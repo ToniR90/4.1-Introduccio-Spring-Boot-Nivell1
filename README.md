@@ -77,7 +77,7 @@ Open a terminal in the project root and use the following Maven commands:
 
 Compile the project
 
-``bash
+bash
 ```mvn compile```
 
 
