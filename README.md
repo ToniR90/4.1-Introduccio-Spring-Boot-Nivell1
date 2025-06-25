@@ -54,10 +54,7 @@ http://localhost:9000/HelloWorld?nom=Toni
 
 Returns:
 
-text
-Copiar
-Editar
-Hola, Toni. Estàs executant un projecte Maven
+`Hola, Toni. Estàs executant un projecte Maven`
 
 
 ### 2. GET /HelloWorld2/{nom}
